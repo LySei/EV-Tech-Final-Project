@@ -24,7 +24,7 @@ Task 2.2
 
 ## Group Members
 Travis Maslow,
-Mohamed Dia
-Lyhuor Seit
-Ben Wright
+Mohamed Dia,
+Lyhuor Seit,
+Ben Wright,
 Rucha Dhakne
